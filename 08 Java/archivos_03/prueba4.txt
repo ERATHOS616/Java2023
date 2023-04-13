@@ -1,0 +1,2 @@
+esto es una prueba
+La palabra no existe en este texto.
